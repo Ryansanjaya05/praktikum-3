@@ -1,1 +1,2 @@
-# praktikum-3
+Nama : Nyoman Ryan Sanjaya
+NIM : 2501020040
